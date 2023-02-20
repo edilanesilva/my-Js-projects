@@ -2,6 +2,6 @@
 
 ## To do List
 
-- ![alt](https://assets/img/to-do.PNG)
+- ![toDoList](./assets/img/to-do.PNG)
 
  

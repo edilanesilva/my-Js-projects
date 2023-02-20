@@ -2,6 +2,6 @@
 
 ## To do List
 
-- ![toDoList](./assets/img/to-do.PNG)
+![toDoList](./01-ToDoList/assets/img/to-do.PNG)
 
  

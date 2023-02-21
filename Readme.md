@@ -1,7 +1,9 @@
 # Mini projetos vanilla JavaScript
 
-## To do List
+## 01-To do List
 
-![toDoList](./01-ToDoList/assets/img/to-do.PNG)
+
+
+ <img src="./01-ToDoList/assets/img/to-do.PNG" alt="Minha Figura" width="500px">
 
  
